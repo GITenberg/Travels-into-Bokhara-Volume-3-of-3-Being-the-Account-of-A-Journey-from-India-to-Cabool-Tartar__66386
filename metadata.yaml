@@ -1,0 +1,34 @@
+_repo: Travels-into-Bokhara-Volume-3-of-3-Being-the-Account-of-A-Journey-from-India-to-Cabool-Tartar__66386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnes, Alexander, Sir
+    alias: Burnes, Bokhara
+    birthdate: 1805
+    deathdate: 1841
+    gutenberg_agent_id: '49762'
+    url: http://www.gutenberg.org/2009/agents/49762
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Burnes
+description: ''
+gutenberg_issued: '2021-09-26'
+identifiers:
+  gutenberg: '66386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Burnes, Alexander, Sir, 1805-1841 -- Travel'
+- !lcsh 'Afghanistan -- Description and travel'
+- !lcsh 'Indus River Valley -- Description and travel'
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcsh 'Bukhoro (Uzbekistan) -- Description and travel'
+- GITenberg
+title: 'Travels into Bokhara (Volume 3 of 3)
+
+  Being the Account of A Journey from India to Cabool, Tartary, and Persia; Also,
+  Narrative of a Voyage on the Indus, From the Sea to Lahore, With Presents From the
+  King of Great Britain; Performed Under the Orders of the Supreme Government of India,
+  in the Years 1831, 1832, and 1833'
+url: http://www.gutenberg.org/ebooks/66386
