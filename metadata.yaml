@@ -1,5 +1,8 @@
 _repo: Travels-into-Bokhara-Volume-3-of-3-Being-the-Account-of-A-Journey-from-India-to-Cabool-Tartar__66386
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66386-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnes, Alexander, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49762
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Burnes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66386#Travels-into-Bokhara-Volume-3-of-3-Being-the-Account-of-A-Journey-from-India-to-Cabool-Tartar_
 gutenberg_issued: '2021-09-26'
 identifiers:
   gutenberg: '66386'
